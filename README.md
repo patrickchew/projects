@@ -20,3 +20,4 @@ This is my collection of projects I'm currently working/thinking about working o
 ###Riso Abstract Illustrations
 
 ###Portfolio Site
+* Complete documentation for all projects
