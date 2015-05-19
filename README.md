@@ -9,6 +9,9 @@ This is my collection of projects I'm currently working/thinking about working o
 ###Y'all Poster/Pennant (First Draft - 5/29)
 * Initial Type & Emblem Explorations 
 
+###IBM Team Accomplishments (Final - 6/1)
+* Put together accomplishments both inside and outside team to document contributions 
+
 ###IBMBlr Contribution
 * Contribute at least 1 post before July
 
