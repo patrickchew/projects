@@ -1,2 +1,22 @@
-# projects
-This is my readme for my projects folder. :thumbs-up:
+# 2015 - In Progress Projects
+This is my collection of projects I'm currently working/thinking about working on. :thumbs-up:
+
+###Print Shop "Brand" (First Draft - 5/29)
+* Name
+* Logo/Type Lockup
+* Statement of Purpose
+
+###Y'all Poster/Pennant (First Draft - 5/29)
+* Initial Type & Emblem Explorations 
+
+###IBMBlr Contribution
+* Contribute at least 1 post before July
+
+###Shipfairy
+* Set up framework for Persona, As Is Scenario
+* Complete Logowork
+* Create Flier for Abhi
+
+###Riso Abstract Illustrations
+
+###Portfolio Site
