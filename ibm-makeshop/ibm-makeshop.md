@@ -1,7 +1,9 @@
 #IBM Make Shop
 
 #### Statement of Purpose
-The IBM Make Shop is a space dedicated to creating a sustainable culture of making at IBM. We are intent on working with not just the digital, but also with the physical. As designers, we want and need to use our hands to do more than push pixels. Here, we use them to pull squegees and to guide paintbrushes, to do anything and everything to make. 
+The IBM Make Shop is a space dedicated to creating a sustainable culture of making at IBM. In our everyday jobs we work primarily within the screen, so at the Make Lab, we are intent on working with the physical. As designers, we want and need to use our hands to do more than push pixels. Here, we use them to pull squegees, to guide paintbrushes, to do anything and everything to make. 
+
+We make to both capture and challenge culture and to encourage others to do the same.
 
 #### Potential Front Runners
 * IBM Make Shop
