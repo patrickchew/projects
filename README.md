@@ -12,6 +12,9 @@ This is my collection of projects I'm currently working/thinking about working o
 ###IBM Team Accomplishments (Final - 6/1)
 * Put together accomplishments both inside and outside team to document contributions 
 
+###"Form Follows" Riso Print (6/1-6/4)
+* Print up 40 posters with "Form Follows ________" to place in the elevator lobby to stimulate studio discussion. 
+
 ###IBMBlr Contribution
 * Contribute at least 1 post before July
 
